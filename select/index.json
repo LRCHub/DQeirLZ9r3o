@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "フルーツバスケット",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2025-12-04T13:11:31.033147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "For フルーツバスケット",
+      "artist": "岡崎律子",
+      "has_synced": true,
+      "path": "select/01_For_フルーツバスケット_岡崎律子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "For フルーツバスケット",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/02_For_フルーツバスケット_Lia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For フルーツバスケット",
+      "artist": "Caitlin Myers",
+      "has_synced": false,
+      "path": "select/03_For_フルーツバスケット_Caitlin_Myers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For フルーツバスケット for Youth",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/04_For_フルーツバスケット_for_Youth_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For フルーツバスケット for Youth",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/05_For_フルーツバスケット_for_Youth_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For フルーツバスケット",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/06_For_フルーツバスケット_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For フルーツバスケット(堀江由衣LIVE TOUR 2019文学少女倶楽部)",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/07_For_フルーツバスケット(堀江由衣LIVE_TOUR_2019文学少女倶楽部)_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock☆DE フルーツバスケット♪",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/08_Rock☆DE_フルーツバスケット♪_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フルーツバスケット",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/09_フルーツバスケット_FRUITS_ZIPPER.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For フルーツバスケット",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/10_For_フルーツバスケット_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "For フルーツバスケット(堀江由衣LIVE TOUR 2019文学少女倶楽部)",
+      "artist": "堀江由衣",
+      "has_synced": false,
+      "path": "select/11_For_フルーツバスケット(堀江由衣LIVE_TOUR_2019文学少女倶楽部)_堀江由衣.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "For フルーツバスケット for Youth",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/12_For_フルーツバスケット_for_Youth_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "For フルーツバスケット / For Fruit Basket",
+      "artist": "RINO",
+      "has_synced": false,
+      "path": "select/13_For_フルーツバスケット___For_Fruit_Basket_RINO.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "For フルーツバスケット",
+      "artist": "萩原雪歩 (長谷優里奈)",
+      "has_synced": false,
+      "path": "select/14_For_フルーツバスケット_萩原雪歩_(長谷優里奈).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フルーツバスケット",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_フルーツバスケット_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
